@@ -3,6 +3,8 @@
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001242/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001243/index.m3u8?
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
+http://39.134.13.35:6610/180000001001/00000001000000000008000000047433/index.m3u8?
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png",湖南都市
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001249/index.m3u8?
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png",湖南娱乐
@@ -45,8 +47,6 @@ http://39.134.13.35:6610/180000001001/00000001000000000007000000001244/index.m3u
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047431/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047432/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
-http://39.134.13.35:6610/180000001001/00000001000000000008000000047433/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047434/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
