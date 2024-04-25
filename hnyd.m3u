@@ -18,11 +18,11 @@ http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
 http://110.72.75.227:8181/tsfile/live/1064_1.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文2
-https://edge2.laotv.la/live/PhxChinese/index.m3u8
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文3
 http://110.72.75.162:8181/tsfile/live/0108_1.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯[1920*1080]
-http://www.372583307.top:4022/udp/233.50.200.192:5140
+http://livetv.skycf.eu.org/live.m3u8?c=2
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯3
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png",湖南电视剧
