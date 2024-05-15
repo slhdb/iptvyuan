@@ -20,7 +20,7 @@ http://110.72.75.227:8181/tsfile/live/1064_1.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文2
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文3
-http://110.72.75.162:8181/tsfile/live/0108_1.m3u8
+http://tvbox.netsite.cc/proxy/1846789161/1846789161.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯[1920*1080]
 http://livetv.skycf.eu.org/live.m3u8?c=2
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯3
