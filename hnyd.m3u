@@ -17,24 +17,6 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
 #EXTINF:-1,凤凰资讯 
 http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png",TVBS
-http://23.224.232.221:81/kk.php?id=tvbs
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS新聞.png",TVBS新聞
-http://23.224.232.221:81/kk.php?id=tvbs_n
-#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://live.fanmingming.com/tv/中天新聞.png",中天新聞
-http://m.xoxtvs.com/ott/?q=5854b82d38335e78ce5a28a0abd6a1a3&id=806
-#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png",中視新聞
-http://m.xoxtvs.com/ott/?q=5854b82d38335e78ce5a28a0abd6a1a3&id=851
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.com/tv/台視新聞.png",台視新聞
-http://23.224.232.221:81/kk.php?id=ttvnews_twn
-#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞.png",寰宇新聞
-http://m.xoxtvs.com/ott/?q=5854b82d38335e78ce5a28a0abd6a1a3&id=856
-#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://live.fanmingming.com/tv/年代新聞.png",年代新聞
-http://m.xoxtvs.com/ott/?q=5854b82d38335e78ce5a28a0abd6a1a3&id=2148
-#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png",東森新聞
-http://m.xoxtvs.com/ott/?q=5854b82d38335e78ce5a28a0abd6a1a3&id=823
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.com/tv/民視新聞.png",民視新聞
-http://m.xoxtvs.com/ott/?q=5854b82d38335e78ce5a28a0abd6a1a3&id=850
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png",湖南电视剧
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001245/index.m3u8?
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/湖南电影.png",湖南电影
