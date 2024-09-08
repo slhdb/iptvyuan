@@ -21,10 +21,6 @@ http://39.134.13.35:6610/180000001001/00000001000000000007000000001246/index.m3u
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001250/index.m3u8?
-#EXTINF:-1 tvg-name="生活家" tvg-logo="https://live.fanmingming.com/tv/生活家.png",生活家
-http://39.134.13.35:6610/180000001001/00000001000000000007000000001251/index.m3u8?
-#EXTINF:-1 tvg-name="大美人" tvg-logo="https://live.fanmingming.com/tv/大美人.png",大美人
-http://39.134.13.35:6610/180000001001/00000001000000000007000000001252/index.m3u8?
 #EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://live.fanmingming.com/tv/湖南公共.png",湖南公共
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047425/index.m3u8?
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png",湖南国际
