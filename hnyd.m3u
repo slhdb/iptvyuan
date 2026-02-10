@@ -11,15 +11,15 @@ http://39.134.13.35:6610/180000001001/00000001000000000007000000001249/index.m3u
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001248/index.m3u8?
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
-http://42.92.195.111:10000/udp/239.255.30.50:8231
+http://61.157.196.13:8888/rtp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文台.png",凤凰中文台
-https://live.sxrtv.com/iptv/fhzw.flv
+http://61.157.196.13:8888/rtp/239.94.2.52:5140
 #EXTINF:-1 tvg-name="凤凰中文频高" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文频高.png",凤凰中文频高
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+http://zj-zb-lt.sohu.blog:7912/rtp/233.50.202.35:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
-http://42.92.195.111:10000/udp/239.255.30.70:8231
+http://61.157.196.13:8888/rtp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯台.png",凤凰资讯台
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+http://zj-zb-lt.sohu.blog:7912/rtp/233.50.202.36:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
 https://live.sxrtv.com/iptv/fhzx.flv
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
