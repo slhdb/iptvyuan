@@ -88,7 +88,7 @@ http://39.134.13.35:6610/180000001001/00000001000000000008000000047447/index.m3u
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047448/index.m3u8?
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047449/index.m3u8?
-#EXTINF:-1 ,湖南卫视4k
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K.png",湖南卫视4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308827/main.m3u8
 #EXTINF:-1 ,江苏卫视4K
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262178928213010539289/main.m3u8
