@@ -42,10 +42,6 @@ http://39.134.13.35:6610/180000001001/00000001000000000007000000001250/index.m3u
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047425/index.m3u8?
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png",湖南国际
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047426/index.m3u8?
-#EXTINF:-1 tvg-name="湖南快乐购" tvg-logo="https://live.fanmingming.com/tv/湖南快乐购.png",湖南快乐购
-http://39.134.13.35:6610/180000001001/00000001000000000008000000047427/index.m3u8?
-#EXTINF:-1 tvg-name="湖南时尚频道" tvg-logo="https://live.fanmingming.com/tv/湖南时尚频道.png",湖南时尚频道
-http://39.134.13.35:6610/180000001001/00000001000000000008000000047428/index.m3u8?
 #EXTINF:-1 tvg-name="长沙新闻" tvg-logo="https://live.fanmingming.com/tv/长沙新闻.png",长沙新闻
 http://39.134.13.35:6610/180000001001/00000001000000000008000000047429/index.m3u8?
 #EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://live.fanmingming.com/tv/长沙政法.png",长沙政法
@@ -110,3 +106,23 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/32025091110262063636605981698
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121664/main.m3u8
 #EXTINF:-1 ,益阳公共
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121665/main.m3u8
+#EXTINF:-1 ,家庭影院
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448840/main.m3u8
+#EXTINF:-1 ,影迷电影
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448841/main.m3u8
+#EXTINF:-1 ,动作电影
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448842/main.m3u8
+#EXTINF:-1 ,书画
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000448843/main.m3u8
+#EXTINF:-1 ,环球旅游
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000064000000308870/main.m3u8
+#EXTINF:-1 ,怀旧剧场
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244806/main.m3u8
+#EXTINF:-1 ,电视指南
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000091000000244797/main.m3u8
+#EXTINF:-1 ,中学生
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416093545217774427398013/main.m3u8
+#EXTINF:-1 ,环球奇观
+http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416181029613614091027931/main.m3u8
+#EXTINF:-1 ,中国天气
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000004000000182438/main.m3u8
