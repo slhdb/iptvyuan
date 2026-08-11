@@ -124,3 +124,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416093545217774427398
 http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416181029613614091027931/main.m3u8
 #EXTINF:-1 ,中国天气
 http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000004000000182438/main.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
