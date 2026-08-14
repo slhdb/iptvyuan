@@ -466,6 +466,3 @@ TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2
 乐游,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042210562120685964078060674/main.m3u8
 生活时尚,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042211012947472200435228155/main.m3u8
 东方财经,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024042209595643000133896920951/main.m3u8
-IPTV抗战剧场,http://58.20.64.92:9999/tsfile/live/1032_1.m3u8
-IPTV高清院线,http://58.20.64.92:9999/tsfile/live/1033_1.m3u8
-IPTV古装剧场,http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
