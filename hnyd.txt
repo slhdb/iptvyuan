@@ -40,6 +40,7 @@ CETV-2,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000000002400
 CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000024000000361368/main.m3u8
 
 凤凰台,#genre#
+凤凰中文,http://k.061899.xyz/k.php?id=fhzw
 凤凰中文,https://cdn.qd.je/163189/fhzw
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4
 凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4
@@ -47,14 +48,13 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000000002400
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,http://k.061899.xyz/k.php?id=fhzw
+凤凰资讯,http://k.061899.xyz/k.php?id=fhzx
 凤凰资讯,https://cdn.qd.je/163189/fhzx
 凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路2』
 凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路3』
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://k.061899.xyz/k.php?id=fhzx
 凤凰香港,http://k.061899.xyz/k.php?id=fhhk
 
 
@@ -81,7 +81,6 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000000002400
 长沙新闻,http://39.134.13.35:6610/180000001001/00000001000000000008000000047429/index.m3u8?
 长沙政法,http://39.134.13.35:6610/180000001001/00000001000000000008000000047430/index.m3u8?
 益阳新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121664/main.m3u8
-新化综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416091722320269512678580/main.m3u8
 
 台湾台,#genre#
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
