@@ -54,6 +54,24 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000000002400
 凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 
+
+凤凰中文,rtp://239.76.246.7:1234
+凤凰资讯,rtp://239.76.246.8:1234
+
+凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+
+凤凰中文,http://k.061899.xyz/k.php?id=fhzw
+凤凰资讯,http://k.061899.xyz/k.php?id=fhzx
+凤凰香港,http://k.061899.xyz/k.php?id=fhhk
+
+
+凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视资讯台,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰卫视中文台,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+
 湖南台,#genre#
 湖南卫视,http://39.134.13.35:6610/180000001001/00000001000000000007000000001242/index.m3u8?
 湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001242/main.m3u8
@@ -77,6 +95,7 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000000002400
 长沙新闻,http://39.134.13.35:6610/180000001001/00000001000000000008000000047429/index.m3u8?
 长沙政法,http://39.134.13.35:6610/180000001001/00000001000000000008000000047430/index.m3u8?
 益阳新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121664/main.m3u8
+新化综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/32023061416091722320269512678580/main.m3u8
 
 台湾台，#genre#
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
