@@ -83,6 +83,9 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000000002400
 益阳新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121664/main.m3u8
 
 新闻台,#genre#
+CCTV4,http://39.134.13.35:6610/180000001001/00000001000000000008000000047433/index.m3u8?
+CCTV4,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/main.m3u8
+CCTV13,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8
 凤凰中文,https://cdn6.cc.cd/163189/fhzw
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://r.jdshipin.com/cCCzW
