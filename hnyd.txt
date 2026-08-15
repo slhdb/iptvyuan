@@ -83,12 +83,6 @@ CETV-4,http://tvgslb.hn.chinamobile.com:8089/180000001001/0000000100000000002400
 长沙文旅,http://tvgslb.hn.chinamobile.com:8089/180000001001/32024050609475789931438327485597/main.m3u8
 益阳新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000033000000121664/main.m3u8
 常德新闻综合,http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000014000000153736/main.m3u8
-凤凰资讯,rtp://239.76.246.8:1234
-凤凰中文,rtp://239.76.246.7:1234
-桃江综合频道,http://hntj.chinashadt.com:2036/live/tv11.stream_360p/playlist.m3u8
-桃江综合频道,http://hntj.chinashadt.com:2036/live/tv11.stream/playlist.m3u8
-桃江经济频道,http://hntj.chinashadt.com:2036/live/tv12.stream_360p/playlist.m3u8
-桃江经济频道,http://hntj.chinashadt.com:2036/live/tv12.stream/playlist.m3u8
 
 新闻台,#genre#
 CCTV4,http://39.134.13.35:6610/180000001001/00000001000000000008000000047433/index.m3u8?
