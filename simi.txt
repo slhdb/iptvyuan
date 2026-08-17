@@ -1,4 +1,4 @@
-私密频道_169169,#genre#
+私密频道,#genre#
 惊艳1,rtmp://112.29.121.74/live/易發TV-jyt
 香蕉2,rtmp://112.29.121.74/live/易發TV-xjt
 惊艳2,http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
@@ -10,7 +10,7 @@
 松3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
 
-私密频道2_169169,#genre#
+私密频道2,#genre#
 Emma White,http://conecdg.me:80/Andrielly.Silva/Br131221/3932765
 Eva Elfie,http://conecdg.me:80/Andrielly.Silva/Br131221/3932766
 MIA KHALIFA,http://conecdg.me:80/Andrielly.Silva/Br131221/3932767
@@ -54,7 +54,7 @@ Fake Driving School,http://conecdg.me:80/Andrielly.Silva/Br131221/3965391
 Fake Agent,http://conecdg.me:80/Andrielly.Silva/Br131221/3965463
 LETSDOEIT,http://conecdg.me:80/Andrielly.Silva/Br131221/3965464
 
-私密频道3_169169,#genre#
+私密频道3,#genre#
 nalfnf,https://v2.catcast.tv/content/40381/index.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8
 Arab Girls,http://live.mycamtv.com/arab.m3u8
@@ -88,7 +88,7 @@ White Girls,http://live.mycamtv.com/white.m3u8
 Skinny Girls,http://live.mycamtv.com/skinny.m3u8
 Medium Girls,http://live.mycamtv.com/medium.m3u8
 
-一本道_169169,#genre#
+一本道,#genre#
 1本道_1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 1本道_2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 1本道_3,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
@@ -211,7 +211,7 @@ Medium Girls,http://live.mycamtv.com/medium.m3u8
 1本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8
 1本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?
 
-私密频道4_169169,#genre#
+私密频道4,#genre#
 ～19岁的,https://server13.6apzfdx.com/video/m3u8/202311/29/450c46f5f3a4/playlist.m3u8
 女艺人、少女,https://server12.bgbfds.com/video/m3u8/202310/07/3e9665e2bc89/playlist.m3u8
 恭贵！品质好,https://server12.bgbfds.com/video/m3u8/202310/07/471f301c97b5/playlist.m3u8
@@ -477,7 +477,7 @@ LinoA-与苗条的长腿美女,https://server17.xsmj10.com/video/m3u8/202507/15/
 熊猫精选14,https://server17.xsmj10.com/video/m3u8/202505/31/3a955b0eb5a9/playlist.m3u8
 熊猫精选15,https://server17.xsmj10.com/video/m3u8/202505/27/197c14a30f4f/playlist.m3u8
 
-FC2PPV_169169,#genre#
+FC2PPV,#genre#
 FC2PPV-1226584,https://aosikazy12.com/20220929/Y3kiFgyI/index.m3u8
 FC2PPV-1235209,https://aosikazy12.com/20220929/cejBtTpH/index.m3u8
 Carib041210-345,https://aosikazy12.com/20220929/iqUTZL9A/index.m3u8
@@ -545,7 +545,7 @@ HAMESAMURAI0210,https://aosikazy12.com/20221002/9KpYlXnx/index.m3u8
 FC2PPV-1264353,https://vip1.slbfsl.com/20220818/C84H3d0W/index.m3u8
 FC2PPV-1264353,https://aosikazy12.com/20221002/wAKRUh2r/index.m3u8
 
-私密频道5_169169,#genre#
+私密频道5,#genre#
 435神,https://vip1.slbfsl.com/20220818/WZxDkttg/index.m3u8
 435神崎,https://aosikazy12.com/20221002/lEhhYPMp/index.m3u8
 Carib072610-436高沙耶香熟,https://vip1.slbfsl.com/20220818/Vt8HXiZQ/index.m3u8
@@ -607,7 +607,7 @@ TPPN-174奏音花音,https://videozm.whqhyg.com:8091/20210601/QQp5l88Y/1000kb/hl
 737奏音花音,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
 087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
 
-优视_169169,#genre#
+优视,#genre#
 125回,https://vip2.slbfsl.com/20230309/MSVdCsi0/index.m3u8
 高20,https://t10t13t16.cdn2020.com/video/m3u8/2021/08/14/4e8c1bc5/index.m3u8
 脸李一,https://t1.wuyufei1.cn/20240401/5VQ4aaul/index.m3u8
@@ -669,7 +669,7 @@ TPPN-174奏音花音,https://videozm.whqhyg.com:8091/20210601/QQp5l88Y/1000kb/hl
 ♨3,https://videos3.m8t9ew.com/20220418/220327a0805/index.m3u8
 日韩,https://aosikazy12.com/20220929/cTOx9X8F/index.m3u8
 
-私密频道6_169169,#genre#
+私密频道6,#genre#
 122816_453,https://v.imgstream2.com/c/ggioidnjzv/ggioidnjzv.m3u8
 122515_215,https://v.imgstream2.com/n/wrqfhaakuw/wrqfhaakuw.m3u8
 122416_451,https://v.imgstream2.com/e/iwmsvjszum/iwmsvjszum.m3u8
@@ -926,7 +926,7 @@ HEYZO-0304,https://v.imgstream2.com/d/fayeeifiie/fayeeifiie.m3u8
 010117-570,https://v.imgstream2.com/m/fvmifoqdfn/fvmifoqdfn.m3u8
 010117-339,https://v.imgstream2.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
 
-ppv_169169,#genre#
+ppv,#genre#
 PPV 121815_453,https://v.imgstream2.com/f/ruqxrljwkn/ruqxrljwkn.m3u8
 PPV 120922_005,https://v.imgstream2.com/a/nyofwfozfn/nyofwfozfn.m3u8
 PPV 120117_004,https://v.imgstream2.com/c/vmjnudrlau/vmjnudrlau.m3u8
@@ -982,7 +982,7 @@ SKY-226 Sky Angel,https://v.imgstream2.com/g/ndbebbdidl/ndbebbdidl.m3u8
 DSAM-57,https://v.imgstream2.com/d/vpcfaqmzio/vpcfaqmzio.m3u8
 CWP-75 CATWALK POISON 75,https://v.imgstream2.com/m/wadfafoddi/wadfafoddi.m3u8
 
-pacopacomama_169169,#genre#
+pacopacomama,#genre#
 pacopacomama 120817_184,https://v.imgstream2.com/e/hvfxfwewxv/hvfxfwewxv.m3u8
 pacopacomama 120115_001,https://v.imgstream2.com/b/hkcqcqzfyh/hkcqcqzfyh.m3u8
 pacopacomama 081717_133,https://v.imgstream2.com/e/feqmkwgnoa/feqmkwgnoa.m3u8
@@ -1024,7 +1024,7 @@ PINK-008,https://v.imgstream2.com/n/porgvgkvne/porgvgkvne.m3u8
 PINK-012,https://v.imgstream2.com/g/lohtscilbd/lohtscilbd.m3u8
 xxx-av 21647,https://v.imgstream2.com/h/phcaifctce/phcaifctce.m3u8
 
-H4610_169169,#genre#
+H4610,#genre#
 H4610-ori1825 綾口 琴音,https://s3.aaaaa.io/585eb671922b2e2f35613f80fd494829/585eb671922b2e2f35613f80fd494829.m3u8
 H4610-ori1832 綾口 琴音,https://s3.aaaaa.io/c3d6ce9980eaf558c348461586a8c58f/c3d6ce9980eaf558c348461586a8c58f.m3u8
 H4610-ori1840 高尾 春花,https://s3.aaaaa.io/e6024156cb91ded56c01fc49a049f573/e6024156cb91ded56c01fc49a049f573.m3u8
@@ -1192,7 +1192,7 @@ C0930-hitozuma0875 暮岩 南,https://s3.aaaaa.io/c3daddeace0325eaf5d42bd8bc30d3
 C0930-hitozuma1159 小川原 紫鶴,https://s3.aaaaa.io/bae5eeec8f17202e7acfc08d262f8a5e/bae5eeec8f17202e7acfc08d262f8a5e.m3u8
 FNS-199 文化…与田りん,https://s3.aaaaa.io/ec6725b0327fa7430057e15a791ea09f/ec6725b0327fa7430057e15a791ea09f.m3u8
 
-私密频道7_169169,#genre#,DE=3
+私密频道7,#genre#,DE=3
 巨茹,http://krevonix.com/20240520/DN1ccCOX/index.m3u8
 双仁,https://t26.cdn2020.com/video/m3u8/2022/01/19/56a11163/index.m3u8
 jufe-131,https://t33.cdn2020.com/video/m3u8/2025/09/09/25fc50e8/index.m3u8
@@ -1249,7 +1249,7 @@ SSNI-865,https://t33.cdn2020.com/video/m3u8/2025/12/29/cbfa103e/index.m3u8
 AKDLD-283,https://t33.cdn2020.com/video/m3u8/2025/12/29/08fea47e/index.m3u8
 LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 
-豆传媒_169169,#genre#
+豆传媒,#genre#
 豆传媒.DG56785.夏云.兄乱抽的,https://t33.cdn2020.com/video/m3u8/2026/01/20/3c534750/index.m3u8
 豆传媒.DG56784.夏云.感医生下惑暴富小,https://t33.cdn2020.com/video/m3u8/2025/12/31/3b03be1c/index.m3u8
 豆传媒.DG56783.喵喵.少的极致惑任你玩,https://t33.cdn2020.com/video/m3u8/2025/12/31/01733c43/index.m3u8
@@ -1566,7 +1566,7 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 豆传媒.ID5202.妍希.凌辱下属美,https://t33.cdn2020.com/video/m3u8/2023/01/24/fe483832/index.m3u8
 豆传媒.ID5201.妍希.隔壁美成了我的言听计从奴隶,https://t33.cdn2020.com/video/m3u8/2023/01/24/a6752a0a/index.m3u8
 
-91ZCM_169169,#genre#
+91ZCM,#genre#
 91ZCM-014.李蓉蓉.曹穿越狠,https://t26.cdn2020.com/video/m3u8/2023/06/22/46222376/index.m3u8
 91ZCM-015.李蓉蓉.硬上风白富美,https://t26.cdn2020.com/video/m3u8/2023/06/29/40bf48c5/index.m3u8
 91BCM-001.李依依.少被邻居调教成,https://t33.cdn2020.com/video/m3u8/2022/11/10/62aca95c/index.m3u8
@@ -1798,7 +1798,7 @@ LULU-306,https://t33.cdn2020.com/video/m3u8/2025/12/28/a655085c/index.m3u8
 91PCM-009.岚可彤.小模外送榨服务,https://t26.cdn2020.com/video/m3u8/2023/12/24/896fde06/index.m3u8
 91PCM-010.岚可彤.极乐圣诞夜.气质美沦为玩物,https://t26.cdn2020.com/video/m3u8/2023/12/27/99cd0bbb/index.m3u8
 
-GDCM_169169,#genre#
+GDCM,#genre#
 GDCM-003.余丽.子行计划1,https://t26.cdn2020.com/video/m3u8/2022/04/12/f89a6e1b/index.m3u8
 GDCM-004.云朵.家教的奖励,https://t26.cdn2020.com/video/m3u8/2022/04/17/18db6835/index.m3u8
 GDCM-006.余丽.子行计划2,https://t26.cdn2020.com/video/m3u8/2022/05/08/378cde5d/index.m3u8
@@ -1866,7 +1866,7 @@ WM-25036.百合.校园,https://t33.cdn2020.com/video/m3u8/2023/02/01/ff70131c/in
 WM-25039.薇薇.清纯邻家小,https://t33.cdn2020.com/video/m3u8/2023/02/01/096b2023/index.m3u8
 WM-25041.瑶瑶.面试,https://t33.cdn2020.com/video/m3u8/2023/02/08/46977454/index.m3u8
 
-维秘传媒_169169,#genre#
+维秘传媒,#genre#
 维秘传媒.小泽珍珍.实习生岗位保卫站,https://t33.cdn2020.com/video/m3u8/2023/02/01/5c0ed0c6/index.m3u8
 维秘传媒.优米酱.原味萝莉,https://t33.cdn2020.com/video/m3u8/2023/01/31/bf3059d9/index.m3u8
 维秘传媒.晚晚酱.荡猫咪终极调教,https://t33.cdn2020.com/video/m3u8/2023/01/31/8d908cde/index.m3u8
@@ -1880,7 +1880,7 @@ WM-25041.瑶瑶.面试,https://t33.cdn2020.com/video/m3u8/2023/02/08/46977454/in
 维秘传媒.香菜公主.小货独特按摩,https://t33.cdn2020.com/video/m3u8/2023/01/31/aa8e5031/index.m3u8
 维秘传媒.菲欧娜.奴的调教,https://t33.cdn2020.com/video/m3u8/2023/01/26/bddb00b4/index.m3u8
 
-QQCM_169169,#genre#
+QQCM,#genre#
 YMCM-001.芷萱.穿越唐朝翻武则天,https://t26.cdn2020.com/video/m3u8/2023/09/04/fe6a0eb7/index.m3u8
 QQCM-006.甜心.专属仆.我的处理射专用仆,https://t26.cdn2020.com/video/m3u8/2022/04/13/25e7bc59/index.m3u8
 QQCM-007.兰心洁.子愉悦乱伦,https://t26.cdn2020.com/video/m3u8/2022/04/07/2d4076fe/index.m3u8
@@ -1986,7 +1986,7 @@ DAD-003.条莉.爸气十足EP19,https://t33.cdn2020.com/video/m3u8/2023/03/24/0b
 DAD-002.望月优奈.爸气十足EP18,https://t33.cdn2020.com/video/m3u8/2023/03/15/9d49a653/index.m3u8
 DAD-001.浅尾美羽.爸气十足EP17,https://t33.cdn2020.com/video/m3u8/2023/02/23/555c89a4/index.m3u8
 
-TZ_169169,#genre#
+TZ,#genre#
 TZ-209.岡本もも.极上风俗侍奉,https://t33.cdn2020.com/video/m3u8/2026/03/05/cec3b7e2/index.m3u8
 TZ-208.月野静.月野静的伊豆SEXY之旅,https://t33.cdn2020.com/video/m3u8/2026/02/21/ccafad39/index.m3u8
 TZ-207.伊东濑.和日本甜的横滨着之旅,https://t33.cdn2020.com/video/m3u8/2026/02/13/be35ff8d/index.m3u8
@@ -2110,7 +2110,7 @@ TZ-041.野惠子.岛国仆为你服务,https://t26.cdn2020.com/video/m3u8/2022/0
 TZ-040.双子兄弟EP4.巨少疯狂榨,https://t26.cdn2020.com/video/m3u8/2022/01/13/081d936c/index.m3u8
 TZ-029.宫泽蓝.双子兄弟EP3.王求不满,https://t33.cdn2020.com/video/m3u8/2021/11/11/61c3e350/index.m3u8
 
-PS_169169,#genre#
+PS,#genre#
 PS035.青木零.雨天搭讪岛国,https://t26.cdn2020.com/video/m3u8/2023/12/24/3bdfb1fa/index.m3u8
 PS031.板仓宁宁.留学少网吧,https://t26.cdn2020.com/video/m3u8/2023/11/01/1e900907/index.m3u8
 PS030.田香.搭讪失恋少邻居,https://t33.cdn2020.com/video/m3u8/2023/05/03/5be30355/index.m3u8
@@ -2142,7 +2142,7 @@ PS002.七濑恋.搭讪早稻田学生,https://t33.cdn2020.com/video/m3u8/2022/07
 PS001.真希波.搭讪20岁日本辣,https://t33.cdn2020.com/video/m3u8/2022/06/17/3f7bea72/index.m3u8
 兔子先生.樱井美里.日本金莲领我回家.万圣节紧急企画,https://t33.cdn2020.com/video/m3u8/2021/10/31/c30062bc/index.m3u8
 
-JDKR_169169,#genre#
+JDKR,#genre#
 JDKR052.青木澪.与阪网奔现东京酒店,https://t26.cdn2020.com/video/m3u8/2024/01/24/f5a0f5c4/index.m3u8
 JDKR034.寂寞的失恋学,https://t26.cdn2020.com/video/m3u8/2023/06/27/6d377cdc/index.m3u8
 JDKR033.学告白,https://t26.cdn2020.com/video/m3u8/2023/06/25/d017a3a5/index.m3u8
@@ -2585,7 +2585,7 @@ JDSY005.瑶贝.空调修理工清高少,https://t26.cdn2020.com/video/m3u8/2022/
 JDSY003.丽纵小姑上快递员到高,https://t26.cdn2020.com/video/m3u8/2022/03/18/3b16fb87/index.m3u8
 JDY001.Rona.派遣按摩师的交易,https://t33.cdn2020.com/video/m3u8/2023/03/14/34bc3bf7/index.m3u8
 
-XKVP_169169,#genre#
+XKVP,#genre#
 XKVP111.凌波丽.外卖员竟是学同学,https://t33.cdn2020.com/video/m3u8/2024/09/01/5fb10dda/index.m3u8
 XKVP097.真希波.酒店与偶遇失恋,https://t33.cdn2020.com/video/m3u8/2024/08/19/f270909a/index.m3u8
 XKVP096.冬月结衣.日语家教老师的文化传播,https://t33.cdn2020.com/video/m3u8/2024/08/19/560bc81d/index.m3u8
@@ -2761,7 +2761,7 @@ MOMO.利用權讓我,https://t33.cdn2020.com/video/m3u8/2024/09/03/da163dc1/inde
 MOMO.SS級完美超害羞,https://t33.cdn2020.com/video/m3u8/2024/08/16/b3cd9e93/index.m3u8
 MOMO.關燈比較刺激,https://t33.cdn2020.com/video/m3u8/2024/09/01/ce5f204f/index.m3u8
 
-XVSR_169169,#genre#
+XVSR,#genre#
 XVSR-140 岸あ,https://t33.cdn2020.com/video/m3u8/2022/07/15/4e7f72af/index.m3u8
 PZZ-778 圧倒的カレン,https://t33.cdn2020.com/video/m3u8/2026/02/13/abad163f/index.m3u8
 IPZZ-703かけ祭り,https://t33.cdn2020.com/video/m3u8/2026/01/16/62279ec6/index.m3u8
@@ -2812,7 +2812,7 @@ IPX-291 ピュア美少接吻とセックス 楓カレン,https://jkunnzyx.com/2
 IPX-278 白衣の神対応然も！ 楓カレン,https://t33.cdn2020.com/video/m3u8/2019/07/24/4b2df664/index.m3u8
 IPX-484 彼女 楓カレン,https://t33.cdn2020.com/video/m3u8/2023/06/24/ba6bd43c/index.m3u8
 
-私密频道8_169169,#genre#,DE=3
+私密频道8,#genre#,DE=3
 AMATEUREURO,http://xionggroup.uk:2347/livehttpplay?channel_id=18209
 BlondeTeen,http://xionggroup.uk:2347/livehttpplay?channel_id=18210
 BlondeTeen2,http://xionggroup.uk:2347/livehttpplay?channel_id=18211
@@ -2857,7 +2857,7 @@ PONDO2,http://xionggroup.uk:2347/livehttpplay?channel_id=18249
 XKG,http://xionggroup.uk:2347/livehttpplay?channel_id=18250
 MSD,http://xionggroup.uk:2347/livehttpplay?channel_id=18251
 
-JAV點播_169169,#genre#,DE=3
+JAV點播,#genre#,DE=3
 10周年紀念特別篇著名演員,https://t33.cdn2020.com/video/m3u8/2024/10/03/922abb2b/index.m3u8
 18歲美少看似清純實際很蕩,https://t33.cdn2020.com/video/m3u8/2024/04/14/5f5c3a43/index.m3u8
 21發顏在美少臉-小阪七香,https://t33.cdn2020.com/video/m3u8/2024/08/22/079edb65/index.m3u8
